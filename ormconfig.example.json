@@ -1,0 +1,19 @@
+[
+    {
+      "name": "mysql_connection",
+      "type": "mysql",
+      "host": "localhost",
+      "port": 3306,
+      "username": "database_username",
+      "password": "database_password",
+      "database": "database_name",
+      "synchronize": false,
+      "logging": ["query", "error"],
+      "entities": [
+        "./src/models/*.ts"
+      ]
+    }
+  
+  ]
+  
+  

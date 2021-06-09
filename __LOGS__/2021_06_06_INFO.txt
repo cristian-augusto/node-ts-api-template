@@ -1,0 +1,45 @@
+
+[06/06/2021 15:23:10] Sistema de log inicializado.
+[06/06/2021 15:23:10] Aplicação inicializada.
+[06/06/2021 15:29:22] Sistema de log inicializado.
+[06/06/2021 15:29:22] Aplicação inicializada.
+[06/06/2021 15:41:48] Sistema de log inicializado.
+[06/06/2021 15:41:48] Aplicação inicializada.
+[06/06/2021 15:52:45] Sistema de log inicializado.
+[06/06/2021 15:52:45] Aplicação inicializada.
+[06/06/2021 16:15:07] Sistema de log inicializado.
+[06/06/2021 16:15:07] Aplicação inicializada.
+[06/06/2021 16:15:42] Sistema de log inicializado.
+[06/06/2021 16:15:42] Aplicação inicializada.
+[06/06/2021 16:16:07] Sistema de log inicializado.
+[06/06/2021 16:16:07] Aplicação inicializada.
+[06/06/2021 16:16:07] Banco de dados inicializado.
+[06/06/2021 16:16:07] Rotas inicializadas.
+[06/06/2021 16:16:07] Middlewares inicializados.
+[06/06/2021 16:16:07] Gerenciamento de erros.
+[06/06/2021 16:16:15] Sistema de log inicializado.
+[06/06/2021 16:16:15] Aplicação inicializada.
+[06/06/2021 16:16:15] Banco de dados inicializado.
+[06/06/2021 16:16:15] Rotas inicializadas.
+[06/06/2021 16:16:15] Middlewares inicializados.
+[06/06/2021 16:16:15] Gerenciamento de erros.
+[06/06/2021 16:18:11] Sistema de log inicializado.
+[06/06/2021 16:18:11] Aplicação inicializada.
+[06/06/2021 16:18:11] Banco de dados inicializado.
+[06/06/2021 16:18:11] Rotas inicializadas.
+[06/06/2021 16:18:11] Middlewares inicializados.
+[06/06/2021 16:18:11] Gerenciamento de erros.
+[06/06/2021 16:21:52] Sistema de log inicializado.
+[06/06/2021 16:21:52] Aplicação inicializada.
+[06/06/2021 16:21:52] Banco de dados inicializado.
+[06/06/2021 16:21:52] Rotas inicializadas.
+[06/06/2021 16:21:52] Middlewares inicializados.
+[06/06/2021 16:21:52] Gerenciamento de erros.
+[06/06/2021 16:22:15] Sistema de log inicializado.
+[06/06/2021 16:22:15] Aplicação inicializada.
+[06/06/2021 16:22:42] Sistema de log inicializado.
+[06/06/2021 16:22:42] Aplicação inicializada.
+[06/06/2021 16:22:42] Banco de dados inicializado.
+[06/06/2021 16:22:42] Rotas inicializadas.
+[06/06/2021 16:22:42] Middlewares inicializados.
+[06/06/2021 16:22:42] Gerenciamento de erros.
