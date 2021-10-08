@@ -1,9 +1,0 @@
-
-[06/06/2021 15:23:10] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 15:29:22] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 15:29:22] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 15:41:48] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 15:52:45] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 16:15:07] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 16:15:42] ER_BAD_DB_ERROR: Unknown database 'db_example'
-[06/06/2021 16:22:15] DATABASE_CONN_NAME is not defined

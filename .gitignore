@@ -5,3 +5,5 @@ dist/
 package-lock.json
 yarn.lock
 ormconfig.json
+_LOGS_/*
+!_LOGS_/.gitkeep
